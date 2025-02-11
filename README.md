@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Technology and coding**
 
-- 📫 How to reach me **sandipmaity172@gmail.com**
+- 📫 How to reach me **contact.sandipmaity@gmail.com**
 
 - 📄 Know about my experiences [Comming soon](Comming soon)
 
