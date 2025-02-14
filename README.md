@@ -1,4 +1,4 @@
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 
 # 💫 About Me:
@@ -12,7 +12,7 @@
 <img  alt=" " width="50px" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif">
 </h1>
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 <h3 align="center">I am a ECE student at Techno Engineering College Banipur</h3>
 
@@ -35,7 +35,7 @@
 
 - ⚡ Fun fact **I am not funny**
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px"  src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 
 ## 🌐 Socials:
@@ -43,46 +43,46 @@
 [![Discord](https://img.shields.io/badge/Discord-%231DA1F2.svg?logo=Discord&logoColor=white)](https://discord.com/users/iam_sandipmaity)
 [![GitHub](https://img.shields.io/badge/GitHub-%231DA1F2.svg?logo=GitHub&logoColor=white)](https://github.com/iam-sandipmaity) 
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif"> 
+<img width="1100px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif"> 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 ![IoT](https://img.shields.io/badge/iot-%23323330.svg?style=for-the-badge&logo=iot&logoColor=%23F7DF1E) ![ARDUINO](https://img.shields.io/badge/arduino-%23323330.svg?style=for-the-badge&logo=arduino&logoColor=%23F7DF1E)
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px"  src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iam-sandipmaity&theme=black&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iam-sandipmaity&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sandipmaity&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px"  src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iam-sandipmaity&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iam-sandipmaity&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 
 ### 😂 Random Dev Meme
 <img src="https://ronreiter-meme-generator.p.rapidapi.com/meme" width="512px"/>
 
-<img align="center"   src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
+<img width="1100px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
 
 
