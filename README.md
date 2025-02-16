@@ -33,7 +33,7 @@
 
 - 📄 Know about my experiences [Comming soon](Comming soon)
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **I am not funny 😅**
 
 <img width="1100px"  src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif">
 
