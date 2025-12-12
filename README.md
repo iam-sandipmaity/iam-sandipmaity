@@ -89,11 +89,23 @@
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/iam-sandipmaity">LinkedIn</a> •
-  <a href="https://twitter.com/iam_sandipmaity">Twitter(Active)</a> •
-  <a href="https://instagram.com/iam_sandipmaity">Instagram</a> •
-  <a href="https://t.me/iam_sandipmaity">Telegram</a>
+  <a href="https://linkedin.com/in/iam-sandipmaity" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/iam_sandipmaity" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/iam_sandipmaity" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/iam_sandipmaity" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:contact.sandipmaity@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
