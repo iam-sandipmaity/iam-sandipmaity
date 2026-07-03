@@ -1,4 +1,9 @@
 ## Hi there 👋
+<!--
+[![My GitFut card](https://gitfut.com/iam-sandipmaity.png)](https://gitfut.com/iam-sandipmaity?country=in)
+-->
+<img width="996" height="1512" alt="image" src="https://github.com/user-attachments/assets/b8677353-8b51-4282-b303-91d951f0023c" />
+
 
 <!--
 **iam-sandipmaity/iam-sandipmaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
